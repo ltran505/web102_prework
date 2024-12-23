@@ -36,6 +36,7 @@ GIF created with Kap
 
 I had trouble with template literal, where I do not know how to add the HTML elements int.
 I also had to spend more time to understand the ternary operator.
+The most difficult task for me was to add the gif file to submit. My file was too large, and I do not know how to get a link from it. I try a lot of different things, but I ended up compressing the file.
 
 ## License
 
