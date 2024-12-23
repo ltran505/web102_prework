@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='file:///Users/lilytran/Movies/Kaptures/Kapture%202024-12-22%20at%2017.44.05.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='assets/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
